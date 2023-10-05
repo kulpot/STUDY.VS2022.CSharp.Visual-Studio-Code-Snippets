@@ -7,11 +7,19 @@ class MainClass
 {
     static void Main()
     {
-        string[] people = new[] { "Kulpot", "Jim", "Bob" };
-        foreach (string name in people)
-        {
-            Console.WriteLine(name);
-        }
+
+
+
+
+        //string[] people = new[] { "Kulpot", "Jim", "Bob" };
+        //foreach (string name in people)
+        //{
+        //    Console.WriteLine(name);
+        //}
+        //for (int meIndex = people.Length - 1; meIndex >= 0; meIndex--)
+        //{
+        //    Console.WriteLine(people[meIndex]);
+        //}
 
 
         //for (int i = 0; i < length; i++)
